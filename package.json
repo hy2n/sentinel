@@ -1,0 +1,25 @@
+{
+  "name": "sentinel",
+  "version": "1.0.0",
+  "description": "A Blog html File Generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hy2n/sentinel.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "hy2n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hy2n/sentinel/issues"
+  },
+  "homepage": "https://github.com/hy2n/sentinel#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
